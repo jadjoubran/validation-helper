@@ -4,7 +4,7 @@ namespace JadJoubran\ValidationHelper;
 
 trait ValidationHelperTrait{
 
-	public function validate($request)
+	public static function validate($request)
 	{
 		$this->validate($request, $this->rules);
 	}
