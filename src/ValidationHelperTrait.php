@@ -2,7 +2,7 @@
 
 namespace JadJoubran\ValidationHelper;
 
-trait ValidationHelper{
+trait ValidationHelperTrait{
 
 	public function validate($request)
 	{
