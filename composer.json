@@ -1,0 +1,17 @@
+{
+    "name": "jadjoubran/validation-helper",
+    "description": "Validation Helper for Laravel 5.1",
+    "keywords": ["laravel", "validation", "helper"],
+    "license": "MIT",
+    "authors": [
+    {
+        "name": "Jad Joubran",
+        "email": "joubran.jad@gmail.com"
+    }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JadJoubran\ValidationHelper\\": "src/"
+        }
+    }
+}
