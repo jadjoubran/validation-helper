@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "JadJoubran\ValidationHelper\\": "src/"
+            "JadJoubran\\ValidationHelper\\": "src/"
         }
     }
 }
